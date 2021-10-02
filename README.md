@@ -4,7 +4,7 @@
     </head>
     <link href="style.css" rel="stylesheet">
     <body>
-        <h1 style="color:white" align="center">Pluto squad</>
+        <h1 style="color:white" align="center">Pluto squad
             <hr />
             <a href="https://discord.gg/QwhqXcZ9Ye"><img src="discord.png"></a>
             <a href="https://github.com/Crazyon01"><img src="github.png"></a>
