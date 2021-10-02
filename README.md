@@ -16,6 +16,3 @@
             <p>&ban @user reason - bans a user for a reason</p>
              <p>&log -logs commands</p>
              <p>more coming to this site soon, but I am kinda lazy ngl</p>
-
-    </body>
-</html>    
